@@ -35,4 +35,6 @@ Código en Verilog
 
 │── clock_divider.v # Módulo que implementa el clock dvider para ajustar el tiempo de ejecución.
 
+│── IMAGENES #Carpeta con imagen de funcionamiento fisico
+
 │── README.md # Este archivo
